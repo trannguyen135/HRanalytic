@@ -25,11 +25,19 @@ EDA:
 How many training hours do a job seeker needs to be ready for a job change in data science? Does any of the following factors affect someone's intention of changing their job to data science?
 
 Gender
+
 Relevant experience
+
 Enrolled university
+
 Education level
+
 Major
+
 Recent job
+
 Company size
+
 Company type
+
 City development index
